@@ -1,36 +1,37 @@
 <div align="center">
 
-<!-- Header -->
+👋 Sayed Mudassar Akbar
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sayed%20Mudassar%20Akbar&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20%26%20Robotics%20Engineer&descAlignY=58&descColor=ffffff"/>
+💻 Full Stack Developer • 🎨 UI/UX Designer • 🤖 AI & Robotics Engineer
 
-<img src="https://komarev.com/ghpvc/?username=SayedMudassarAkbarAI&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SayedMudassarAkbarAI&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SayedMudassarAkbarAI?label=FOLLOWERS&style=for-the-badge&color=00d4ff" alt="Followers"/>
+</p>
 
-<img src="https://img.shields.io/github/followers/SayedMudassarAkbarAI?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers"/>
-
-<br><br>
-
-<a href="https://spmanchester.com/">
-  <img src="https://img.shields.io/badge/Website-SP%20Manchester-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-<a href="mailto:mudassarakbara.i@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <a href="https://spmanchester.com/">
+    <img src="https://img.shields.io/badge/🌐%20Website-SP%20Manchester-00d4ff?style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="mailto:mudassarakbara.i@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff6b6b?style=for-the-badge" alt="Email"/>
+  </a>
+</p>
 
 </div>
-
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Full+Stack+Developer;🎨+UI%2FUX+Designer;🤖+AI+%26+Robotics+Engineer;📊+Associate+Data+Scientist;🚀+Building+Ideas+Into+Real+Solutions!" alt="Typing Animation"/>
+🚀 Building intelligent systems, modern web applications & digital experiences
+
+AI • Web Development • Data Science • Robotics • UI/UX
 
 </div>
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-```python
 class SayedMudassarAkbar:
+
     def __init__(self):
         self.name = "Sayed Mudassar Akbar"
         self.username = "SayedMudassarAkbarAI"
@@ -49,171 +50,183 @@ class SayedMudassarAkbar:
         self.pronouns = "he/him"
 
     def say_hi(self):
-        print(
-            "Thanks for visiting my profile! "
-            "Let's build something amazing! 🚀"
-        )
+        print("Thanks for visiting my profile! 🚀")
+        print("Let's build something amazing together!")
 
 
 me = SayedMudassarAkbar()
 me.say_hi()
-```
 
----
+🔭 Current Focus
 
-## 🚀 What I'm Working On
+🚀 Current Focus
 
-| 🔭 Current Focus        | 🌱 Learning            | 💡 Expertise         |
-| ----------------------- | ---------------------- | -------------------- |
-| AI & Robotics Projects  | Advanced Deep Learning | Web Development      |
-| Full Stack Applications | Cloud Architecture     | UI/UX Design         |
-| Data Science Solutions  | Blockchain Technology  | Data Analysis        |
-| Intelligent Automation  | Computer Vision        | Software Engineering |
+🌱 Learning
 
----
+💡 Expertise
 
-## 📊 GitHub Statistics
+🤖 AI & Robotics
+
+🧠 Advanced Deep Learning
+
+🌐 Web Development
+
+💻 Full Stack Apps
+
+☁️ Cloud Architecture
+
+🎨 UI/UX Design
+
+📊 Data Science
+
+⛓️ Blockchain Technology
+
+📈 Data Analysis
+
+⚙️ Intelligent Automation
+
+👁️ Computer Vision
+
+🛠️ Software Engineering
+
+🛠️ Tech Stack
+
+💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Programming Languages"/>
+</p>
+
+🤖 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI Technologies"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+🎨 Frontend & UI/UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" alt="Frontend Technologies"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-00d4ff?style=for-the-badge" alt="UI UX"/>
+</p>
+
+🔧 Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb" alt="Backend Technologies"/>
+</p>
+
+☁️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools and Platforms"/>
+</p>
+
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SayedMudassarAkbarAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats"/>
+<a href="https://github.com/SayedMudassarAkbarAI">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SayedMudassarAkbarAI&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMudassarAkbarAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SayedMudassarAkbarAI&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
+<a href="https://github.com/SayedMudassarAkbarAI">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMudassarAkbarAI&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages"/>
+</a>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SayedMudassarAkbarAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com?user=SayedMudassarAkbarAI&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayedMudassarAkbarAI&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayedMudassarAkbarAI&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
----
+🏆 GitHub Trophies
 
-# 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Programming Languages
+<img src="https://github-profile-trophy.vercel.app/?username=SayedMudassarAkbarAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Programming Languages"/>
-</p>
+</div>
 
-### 🤖 AI & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and Data Science"/>
-</p>
-
-**Libraries & Tools**
-
-`Scikit-learn` · `NumPy` · `Pandas` · `OpenCV`
-
-### 🎨 Frontend & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" alt="Frontend and Design"/>
-</p>
-
-`Adobe XD` · `UI/UX Design`
-
-### 🔧 Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb" alt="Backend and Databases"/>
-</p>
-
-### ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools and Platforms"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://spmanchester.com/">
-<img src="https://img.shields.io/badge/Website-SP%20Manchester-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/🌐%20Website-SP%20Manchester-00d4ff?style=for-the-badge" alt="Website"/>
 </a>
 
 <a href="mailto:mudassarakbara.i@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/📧%20Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<!-- Replace these with your actual social profile URLs -->
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 </div>
 
----
-
-## 📍 Location
+📍 Location
 
 <div align="center">
 
-**Manchester, United Kingdom 🇬🇧**
+📍 Manchester, United Kingdom 🇬🇧
 
 </div>
 
----
-
-## 💬 Let's Build Something Amazing
+💬 Let's Build Something Amazing
 
 <div align="center">
 
-🚀 **AI • Web Development • Data Science • Robotics • UI/UX**
+🚀 AI • Web Development • Data Science • Robotics • UI/UX
 
-I'm interested in building innovative products, intelligent systems,
-and modern digital experiences.
+I'm passionate about building innovative products,
+intelligent systems and modern digital experiences.
 
 <br>
 
-⭐ **Star my repositories if you find them useful!**
+⭐ Star my repositories if you find them useful!
 
-🤝 **Open to collaborations and exciting projects!**
+🤝 Open to collaborations and exciting projects!
 
-💬 **Feel free to reach out.**
+💬 Feel free to reach out.
 
 </div>
-
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;🚀+Keep+Building.+Keep+Learning.;🤝+Let's+Create+Something+Amazing!" alt="Footer Typing"/>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+⭐ Keep Building • Keep Learning • Keep Innovating 🚀
 
 </div>
-```
