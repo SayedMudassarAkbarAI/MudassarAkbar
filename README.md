@@ -9,6 +9,35 @@
 
 </div>
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SayedMudassarAkbarAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMudassarAkbarAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayedMudassarAkbarAI&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/> </div>
+
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SayedMudassarAkbarAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/> </div>
+
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayedMudassarAkbarAI&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph"/> </div>
+
+<div align="center">
+🔭 Current Focus	🌱 Learning	💡 Expertise
+AI & Robotics Projects	Advanced Deep Learning	Web Development
+Full Stack Development	Cloud Architecture	UI/UX Design
+Data Science Solutions	Blockchain Tech	Data Analysis
+</div>
+
+<div align="center">
+Website
+LinkedIn
+Instagram
+Facebook
+Gmail
+
+</div>
+
+<div align="center">
+📌 Manchester, United Kingdom 🇬🇧
+24A Chapel Green Rd, Hindley, Wigan WN2 3LL
+
+</div>
+
 ---
 
 <!-- Typing Animation -->
@@ -78,3 +107,4 @@ class SayedMudassarAkbar:
 
 me = SayedMudassarAkbar()
 me.say_hi()
+<!-- Footer --><div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+helpful!;🤝+Open+to+collaborations!;💬+Feel+free+to+reach+out!" alt="Footer Typing"/></div> ```
