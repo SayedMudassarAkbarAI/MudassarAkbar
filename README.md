@@ -217,9 +217,3 @@ and modern digital experiences.
 
 </div>
 ```
-
-### Important
-
-`LinkedIn`, `Instagram`, aur `Facebook` ke links abhi generic hain. **Apne actual profile URLs** un teen links mein replace karna hoga. Website aur Gmail already aapke diye hue details ke mutabiq set hain.
-
-Aap kis style ko next polish karna chahte hain: **🔥 premium/animated** ya **💼 clean professional**?
