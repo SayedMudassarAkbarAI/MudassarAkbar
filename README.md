@@ -82,6 +82,8 @@ Linux
 
 </div>
 ---
+<!-- Footer --><div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+helpful!;🤝+Open+to+collaborations!;💬+Feel+free+to+reach+out!" alt="Footer Typing"/></div> ```
+
 
 ## 🧑‍💻 About Me
 
@@ -107,4 +109,3 @@ class SayedMudassarAkbar:
 
 me = SayedMudassarAkbar()
 me.say_hi()
-<!-- Footer --><div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+helpful!;🤝+Open+to+collaborations!;💬+Feel+free+to+reach+out!" alt="Footer Typing"/></div> ```
