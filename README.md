@@ -15,7 +15,43 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Full+Stack+Developer;🎨+UI%2FUX+Designer;🤖+AI+%26+Robotics+Engineer;📊+Associate+Data+Scientist;🚀+Always+Learning+New+Things!" alt="Typing SVG"/>
 </div>
+<div align="center">
+💻 Programming Languages
+Python
+JavaScript
+HTML5
+CSS3
+Java
 
+🤖 AI & Data Science
+TensorFlow
+PyTorch
+Scikit Learn
+NumPy
+Pandas
+OpenCV
+
+🎨 Design & Frontend
+React
+Figma
+Adobe XD
+Tailwind CSS
+Bootstrap
+
+🔧 Backend & Database
+Node.js
+Django
+MySQL
+MongoDB
+
+☁️ Tools & Platforms
+Git
+GitHub
+VS Code
+Docker
+Linux
+
+</div>
 ---
 
 ## 🧑‍💻 About Me
